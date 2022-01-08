@@ -1,2 +1,0 @@
-# linkedin-clone
-linkedlin-clone
