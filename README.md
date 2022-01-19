@@ -1,9 +1,9 @@
 # A cloned version of LinkedIn
 
-# Technology stack
+## Technology stack
 React, Redux, Firebase, Styled-components
 
-# Feature
+## Features
 - User can login with Google (firebase/auth)
 - Logged-in user can create a post with text, image or an link to a video. 
 - User media files are stored in firebase/storage
