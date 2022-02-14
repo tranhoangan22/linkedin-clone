@@ -1,5 +1,7 @@
 # A cloned version of LinkedIn
 
+website: https://linked-clone-468ca.web.app/
+
 ## Technology stack
 React, Redux, Firebase, Styled-components
 
@@ -9,3 +11,4 @@ React, Redux, Firebase, Styled-components
 - User media files are stored in firebase/storage
 - User info and links to media data is stored in a database (firebase/firestore)
 - When user logs in, and after they create a new post, the available posts stored in database are retrieved and populated onto the UI
+- The website is deployed with Firebase hosting
