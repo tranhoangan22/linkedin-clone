@@ -1,7 +1,5 @@
 # A cloned version of LinkedIn
 
-https://linked-clone-468ca.web.app/
-
 ## Technology stack
 React, Redux, Firebase, Styled-components
 
